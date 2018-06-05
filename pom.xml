@@ -33,9 +33,9 @@
     </properties>
 
     <scm>
-        <connection>scm:git:https://github.com/ptaucher/rb-tool-colorconverter.git</connection>
-        <developerConnection>scm:git:https://github.com/ptaucher/rb-tool-colorconverter.git</developerConnection>
-        <url>scm:git:https://github.com/ptaucher/rb-tool-colorconverter.git</url>
+        <connection>scm:git:git@github.com:ptaucher/rb-tool-colorconverter.git</connection>
+        <developerConnection>scm:git:git@github.com:ptaucher/rb-tool-colorconverter.git</developerConnection>
+        <url>scm:git:git@github.com:ptaucher/rb-tool-colorconverter.git</url>
         <tag>HEAD</tag>
     </scm>
 
